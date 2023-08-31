@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^20.5.1"
+  },
+  "name": "express_test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "00-meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
